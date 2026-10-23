@@ -1,0 +1,29 @@
+# BantAI Baga: notebooks, app, tests and scripts. Python 3.12.
+# Versions are the ones that produced the committed results and models.
+# The dashboard alone needs fewer packages: see app/requirements.txt.
+branca==0.8.2
+folium==0.20.0
+geopandas==1.2.0
+jinja2==3.1.6
+joblib==1.6.0
+lightgbm==4.7.0
+matplotlib==3.11.2
+numpy==2.5.4
+pandas==3.0.6
+pillow==13.0.0
+pulp[cbc]==4.1.0
+rasterio==1.5.2
+requests==2.34.2
+scikit-learn==1.9.1
+shap==0.54.1
+streamlit==1.66.1
+streamlit-folium==0.27.4
+# read and write engines that pandas loads by name (Excel census, parquet app tables)
+openpyxl==3.1.5
+pyarrow==26.0.0
+# run the notebooks without opening them (scripts/run_pipeline.py)
+ipykernel==7.4.0
+nbclient==0.11.0
+nbformat==5.11.1
+# Streamlit AppTest suite (tests/)
+pytest==9.1.1

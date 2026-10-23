@@ -1,0 +1,382 @@
+{
+  "so2_next_day": {
+    "n_train": 564,
+    "n_test": 290,
+    "lgbm_params": {
+      "learning_rate": 0.03,
+      "min_child_samples": 30,
+      "n_estimators": 200,
+      "num_leaves": 15
+    },
+    "mlp_params": {
+      "regressor__mlpregressor__alpha": "10.0",
+      "regressor__mlpregressor__hidden_layer_sizes": "(16,)"
+    },
+    "cv_mae_log": {
+      "LightGBM": 0.4094,
+      "MLP": 0.4055
+    },
+    "forecast_model": "MLP",
+    "test": {
+      "LightGBM": {
+        "mae_td": 687.91,
+        "rmse_td": 875.25,
+        "n_eval": 290
+      },
+      "MLP": {
+        "mae_td": 633.42,
+        "rmse_td": 807.84,
+        "n_eval": 290
+      },
+      "persistence": {
+        "mae_td": 784.27,
+        "rmse_td": 1021.34,
+        "n_eval": 290
+      },
+      "7-day mean": {
+        "mae_td": 657.81,
+        "rmse_td": 821.25,
+        "n_eval": 290
+      }
+    }
+  },
+  "drift_next_day": {
+    "n_train": 608,
+    "n_test": 265,
+    "lgbm_params": {
+      "learning_rate": 0.03,
+      "min_child_samples": 10,
+      "n_estimators": 100,
+      "num_leaves": 4
+    },
+    "mlp_params": {
+      "mlpclassifier__alpha": "1.0",
+      "mlpclassifier__hidden_layer_sizes": "(16,)"
+    },
+    "cv_accuracy": {
+      "LightGBM": 0.4455,
+      "MLP": 0.4851
+    },
+    "forecast_model": "MLP",
+    "test": {
+      "LightGBM": {
+        "accuracy": 0.5585,
+        "within_one_accuracy": 0.8868,
+        "n_eval": 265
+      },
+      "MLP": {
+        "accuracy": 0.5094,
+        "within_one_accuracy": 0.8755,
+        "n_eval": 265
+      },
+      "repeat yesterday": {
+        "accuracy": 0.4302,
+        "within_one_accuracy": 0.7698,
+        "n_eval": 265
+      },
+      "always SW": {
+        "accuracy": 0.3547,
+        "within_one_accuracy": 0.5962,
+        "n_eval": 265
+      },
+      "wind sector (reference)": {
+        "accuracy": 0.483,
+        "within_one_accuracy": 0.9321,
+        "n_eval": 265
+      }
+    }
+  },
+  "plume_index": {
+    "downwind_share": 0.567,
+    "plume_index_percentiles": {
+      "p50": 0.0,
+      "p75": 1.4603612359439775e-51,
+      "p90": 0.00043490541629939494,
+      "p99": 3044.232814806992,
+      "max": 119932.00662705342
+    },
+    "plume_index_flat_percentiles": {
+      "p50": 0.0,
+      "p75": 6.91904692916505e-93,
+      "p90": 3.058948680624323e-36,
+      "p99": 2.821740479053386e-19,
+      "max": 1.888597044672091e-06
+    },
+    "train_median_plume_height_m": 200.0
+  },
+  "exposure": {
+    "n_train": 1944,
+    "n_train_exposed": 74,
+    "n_test": 1080,
+    "n_test_exposed": 92,
+    "train_event_dates": [
+      "2024-06-03",
+      "2024-09-11",
+      "2024-09-24",
+      "2024-10-28",
+      "2024-11-15",
+      "2024-12-09",
+      "2025-02-15",
+      "2025-04-08",
+      "2025-10-24"
+    ],
+    "test_event_dates": [
+      "2026-02-19",
+      "2026-02-26",
+      "2026-03-15",
+      "2026-07-09",
+      "2026-10-10"
+    ],
+    "features": [
+      "dist_km",
+      "bearing_sin",
+      "bearing_cos",
+      "angle_diff_deg",
+      "elev_m",
+      "log_plume_index",
+      "log_so2_input",
+      "plume_height_m",
+      "wind_speed_plume",
+      "eq_total_lag1",
+      "eq_total_lag2",
+      "eq_total_lag3",
+      "eq_total_roll7"
+    ],
+    "scale_pos_weight": 25.27,
+    "lgbm_params": {
+      "learning_rate": 0.03,
+      "min_child_samples": 10,
+      "n_estimators": 300,
+      "num_leaves": 4
+    },
+    "mlp_params": {
+      "mlpclassifier__alpha": "10.0",
+      "mlpclassifier__hidden_layer_sizes": "(32, 16)"
+    },
+    "cv_pr_auc": {
+      "LightGBM": 0.5302,
+      "MLP": 0.4762
+    },
+    "thresholds": {
+      "LightGBM": 0.16971149880265582,
+      "MLP": 0.39510189561420506,
+      "plume index only": 0.0
+    },
+    "scoring_model": "LightGBM",
+    "test": {
+      "LightGBM": {
+        "recall": 0.6413,
+        "precision": 0.2458,
+        "f1": 0.3554,
+        "pr_auc": 0.4517,
+        "n_flagged": 240.0,
+        "n_positive": 92.0,
+        "n_rows": 1080.0
+      },
+      "MLP": {
+        "recall": 0.6522,
+        "precision": 0.3,
+        "f1": 0.411,
+        "pr_auc": 0.4301,
+        "n_flagged": 200.0,
+        "n_positive": 92.0,
+        "n_rows": 1080.0
+      },
+      "distance only (N from LightGBM)": {
+        "recall": 0.5435,
+        "precision": 0.2083,
+        "f1": 0.3012,
+        "pr_auc": 0.2647,
+        "n_flagged": 240.0,
+        "n_positive": 92.0,
+        "n_rows": 1080.0
+      },
+      "distance only (N from MLP)": {
+        "recall": 0.5217,
+        "precision": 0.24,
+        "f1": 0.3288,
+        "pr_auc": 0.2647,
+        "n_flagged": 200.0,
+        "n_positive": 92.0,
+        "n_rows": 1080.0
+      },
+      "plume index only": {
+        "recall": 1.0,
+        "precision": 0.0852,
+        "f1": 0.157,
+        "pr_auc": 0.2574,
+        "n_flagged": 1080.0,
+        "n_positive": 92.0,
+        "n_rows": 1080.0
+      }
+    },
+    "test_recall_by_date": {
+      "2026-02-19": {
+        "LightGBM": 0.5185,
+        "MLP": 0.5556,
+        "distance only (N from LightGBM)": 0.3333,
+        "distance only (N from MLP)": 0.3704,
+        "plume index only": 1.0
+      },
+      "2026-02-26": {
+        "LightGBM": 0.6364,
+        "MLP": 0.5909,
+        "distance only (N from LightGBM)": 0.5455,
+        "distance only (N from MLP)": 0.5455,
+        "plume index only": 1.0
+      },
+      "2026-03-15": {
+        "LightGBM": 0.75,
+        "MLP": 0.6875,
+        "distance only (N from LightGBM)": 0.75,
+        "distance only (N from MLP)": 0.6875,
+        "plume index only": 1.0
+      },
+      "2026-07-09": {
+        "LightGBM": 0.875,
+        "MLP": 0.8125,
+        "distance only (N from LightGBM)": 0.75,
+        "distance only (N from MLP)": 0.625,
+        "plume index only": 1.0
+      },
+      "2026-10-10": {
+        "LightGBM": 0.4545,
+        "MLP": 0.7273,
+        "distance only (N from LightGBM)": 0.4545,
+        "distance only (N from MLP)": 0.4545,
+        "plume index only": 1.0
+      }
+    }
+  },
+  "health_impact": {
+    "q_ref_td": 5008.25,
+    "q_ref_n_days": 8,
+    "activity_cap": 3,
+    "rr_per_10ugm3": 1.0126,
+    "scenarios_ugm3": [
+      20,
+      40,
+      100
+    ],
+    "main_scenario_ugm3": 40,
+    "main_baseline": "Negros Occidental and Bacolod City",
+    "activity_2026": {
+      "min": 0.0649,
+      "median": 0.3286,
+      "max": 0.4953,
+      "days_at_cap": 0.0
+    },
+    "totals_2026": {
+      "20": {
+        "extra_under5": 2.4906,
+        "extra_60plus": 1.4512,
+        "extra_all": 16.1244
+      },
+      "40": {
+        "extra_under5": 4.9927,
+        "extra_60plus": 2.909,
+        "extra_all": 32.3227
+      },
+      "100": {
+        "extra_under5": 12.5683,
+        "extra_60plus": 7.3225,
+        "extra_all": 81.3661
+      }
+    },
+    "report_day_check_2026": {
+      "days without reports": {
+        "dates": 289,
+        "barangay_days": 62424,
+        "mean_p_exposed": 0.137142,
+        "mean_activity": 0.328547,
+        "mean_delta_c_ugm3": 1.816135,
+        "mean_extra_under5_60plus": 0.000125
+      },
+      "report days": {
+        "dates": 5,
+        "barangay_days": 1080,
+        "mean_p_exposed": 0.130146,
+        "mean_activity": 0.29215,
+        "mean_delta_c_ugm3": 1.454372,
+        "mean_extra_under5_60plus": 0.000101
+      },
+      "report days, reported barangays": {
+        "dates": 5,
+        "barangay_days": 92,
+        "mean_p_exposed": 0.454141,
+        "mean_activity": 0.267414,
+        "mean_delta_c_ugm3": 5.075098,
+        "mean_extra_under5_60plus": 0.000394
+      }
+    },
+    "hazard_check_2026": {
+      "ashfall only": {
+        "dates": 4,
+        "barangay_days": 54,
+        "mean_so2_forecast_td": 1261.7296,
+        "mean_p_exposed": 0.4429
+      },
+      "both": {
+        "dates": 4,
+        "barangay_days": 24,
+        "mean_so2_forecast_td": 1570.65,
+        "mean_p_exposed": 0.4925
+      },
+      "sulfur odor only": {
+        "dates": 3,
+        "barangay_days": 14,
+        "mean_so2_forecast_td": 1241.75,
+        "mean_p_exposed": 0.4319
+      }
+    },
+    "risk_level_counts_2026": {
+      "Low": {
+        "quiet days": 54023,
+        "report days": 975
+      },
+      "Moderate": {
+        "quiet days": 8401,
+        "report days": 105
+      },
+      "High": {
+        "quiet days": 0,
+        "report days": 0
+      },
+      "Very high": {
+        "quiet days": 0,
+        "report days": 0
+      }
+    },
+    "sensitivity_total_range": [
+      0.314,
+      89.4776
+    ],
+    "min_rank_spearman_vs_main": 0.9971
+  },
+  "allocation": {
+    "k_teams": 5,
+    "max_km": 10,
+    "road_factor": 1.4,
+    "scenario_masks": 135000,
+    "scenario_kits": 349,
+    "n_candidate_bases": 47,
+    "barangays_out_of_reach": {
+      "5": 145,
+      "10": 82,
+      "15": 46
+    },
+    "report_days": 5,
+    "vulnerable_covered_model": 51630,
+    "vulnerable_covered_distance": 20158,
+    "reported_vulnerable": 99828,
+    "days_model_more": 4,
+    "days_tied": 1,
+    "days_distance_more": 0,
+    "target_met": true,
+    "masks_to_reported_model": 249103,
+    "masks_to_reported_distance": 229714,
+    "kits_serving_reported_model": 1039,
+    "kits_serving_reported_distance": 727,
+    "example_date": "2026-02-19"
+  }
+}

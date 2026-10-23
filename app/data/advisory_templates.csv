@@ -1,0 +1,138 @@
+level,language,text,back_translation_english,reviewed_by
+Low,English,"Kanlaon advisory, {date}.
+Breathing risk: {risk_level}.
+If you smell sulfur or see ashfall, stay indoors and close windows.
+Wear a mask, N95 if available.
+Protect children, older adults, and people with asthma or lung disease.
+Drink water.
+If breathing is hard, go to the nearest health center.",,team member (native speaker)
+Moderate,English,"Kanlaon advisory, {date}.
+Breathing risk: {risk_level}.
+During ashfall or sulfur smell, stay indoors and close windows.
+Wear a mask, N95 if available.
+Protect children, older adults, and people with asthma or lung disease.
+Drink water.
+If breathing is hard, go to the nearest health center.",,team member (native speaker)
+High,English,"Kanlaon advisory, {date}.
+Breathing risk: {risk_level}.
+Stay indoors and close windows, especially during ashfall or sulfur smell.
+Wear a mask, N95 if available.
+Protect children, older adults, and people with asthma or lung disease.
+Drink water.
+If breathing is hard, go to the nearest health center right away.",,team member (native speaker)
+Very high,English,"Kanlaon advisory, {date}.
+Breathing risk: {risk_level}.
+Follow LGU evacuation orders.
+During ashfall or sulfur smell, stay indoors and close windows.
+Wear a mask, N95 if available.
+Protect children, older adults, and people with asthma or lung disease.
+Drink water.
+If breathing is hard, go to the nearest health center.",,team member (native speaker)
+Low,Hiligaynon,"Kanlaon, {date}.
+Peligro sa pagginhawa: Manubo.
+Kon may baho sang asupre ukon nagahulog nga abo, magpabilin sa sulod kag sirhi ang bintana.
+Mag-mask, N95 kon may ara.
+Bantayan ang mga bata, tigulang, kag may hubak ukon balatian sa baga.
+Mag-inom sang tubig.
+Kon mabudlay magginhawa, magkadto sa pinakamalapit nga health center.","Kanlaon, {date}.
+Danger to breathing: Low.
+If there is a sulfur smell or falling ash, stay inside and close the windows.
+Wear a mask, N95 if there is one.
+Watch over children, older people, and those with asthma or lung disease.
+Drink water.
+If breathing is difficult, go to the nearest health center.",team member (native speaker)
+Moderate,Hiligaynon,"Kanlaon, {date}.
+Peligro sa pagginhawa: Kasarangan.
+Kon may nagahulog nga abo ukon baho sang asupre, magpabilin sa sulod kag sirhi ang bintana.
+Mag-mask, N95 kon may ara.
+Bantayan ang mga bata, tigulang, kag may hubak ukon balatian sa baga.
+Mag-inom sang tubig.
+Kon mabudlay magginhawa, magkadto sa pinakamalapit nga health center.","Kanlaon, {date}.
+Danger to breathing: Moderate.
+If there is falling ash or a sulfur smell, stay inside and close the windows.
+Wear a mask, N95 if there is one.
+Watch over children, older people, and those with asthma or lung disease.
+Drink water.
+If breathing is difficult, go to the nearest health center.",team member (native speaker)
+High,Hiligaynon,"Kanlaon, {date}.
+Peligro sa pagginhawa: Mataas.
+Magpabilin sa sulod kag sirhi ang bintana, labi na kon may abo ukon baho sang asupre.
+Mag-mask, N95 kon may ara.
+Bantayan ang mga bata, tigulang, kag may hubak ukon balatian sa baga.
+Mag-inom sang tubig.
+Kon mabudlay magginhawa, magkadto dayon sa pinakamalapit nga health center.","Kanlaon, {date}.
+Danger to breathing: High.
+Stay inside and close the windows, especially if there is ash or a sulfur smell.
+Wear a mask, N95 if there is one.
+Watch over children, older people, and those with asthma or lung disease.
+Drink water.
+If breathing is difficult, go right away to the nearest health center.",team member (native speaker)
+Very high,Hiligaynon,"Kanlaon, {date}.
+Peligro sa pagginhawa: Mataas gid.
+Magbakwit kon ipamando sang LGU.
+Kon may abo ukon baho sang asupre, magpabilin sa sulod, sirhi ang bintana.
+Mag-mask, N95 kon may ara.
+Bantayan ang mga bata, tigulang, kag may hubak ukon balatian sa baga.
+Mag-inom sang tubig.
+Kon mabudlay magginhawa, magkadto sa pinakamalapit nga health center.","Kanlaon, {date}.
+Danger to breathing: Very high.
+Evacuate when the LGU orders it.
+If there is ash or a sulfur smell, stay inside, close the windows.
+Wear a mask, N95 if there is one.
+Watch over children, older people, and those with asthma or lung disease.
+Drink water.
+If breathing is difficult, go to the nearest health center.",team member (native speaker)
+Low,Cebuano,"Kanlaon, {date}.
+Peligro sa pagginhawa: Ubos.
+Kon may baho sa asupre o nagtagak nga abo, pabilin sa sulod ug sirad-i ang bintana.
+Pagsul-ob og mask, N95 kon aduna.
+Panalipdi ang mga bata, tigulang, ug may hubak o sakit sa baga.
+Inom og tubig.
+Kon lisod moginhawa, adto sa pinakaduol nga health center.","Kanlaon, {date}.
+Danger to breathing: Low.
+If there is a sulfur smell or falling ash, stay inside and close the windows.
+Wear a mask, N95 if there is one.
+Protect children, older people, and those with asthma or lung disease.
+Drink water.
+If breathing is hard, go to the nearest health center.",team member (native speaker)
+Moderate,Cebuano,"Kanlaon, {date}.
+Peligro sa pagginhawa: Kasarangan.
+Kon may nagtagak nga abo o baho sa asupre, pabilin sa sulod ug sirad-i ang bintana.
+Pagsul-ob og mask, N95 kon aduna.
+Panalipdi ang mga bata, tigulang, ug may hubak o sakit sa baga.
+Inom og tubig.
+Kon lisod moginhawa, adto sa pinakaduol nga health center.","Kanlaon, {date}.
+Danger to breathing: Moderate.
+If there is falling ash or a sulfur smell, stay inside and close the windows.
+Wear a mask, N95 if there is one.
+Protect children, older people, and those with asthma or lung disease.
+Drink water.
+If breathing is hard, go to the nearest health center.",team member (native speaker)
+High,Cebuano,"Kanlaon, {date}.
+Peligro sa pagginhawa: Taas.
+Pabilin sa sulod ug sirad-i ang bintana, labi na kon may abo o baho sa asupre.
+Pagsul-ob og mask, N95 kon aduna.
+Panalipdi ang mga bata, tigulang, ug may hubak o sakit sa baga.
+Inom og tubig.
+Kon lisod moginhawa, adto dayon sa pinakaduol nga health center.","Kanlaon, {date}.
+Danger to breathing: High.
+Stay inside and close the windows, especially if there is ash or a sulfur smell.
+Wear a mask, N95 if there is one.
+Protect children, older people, and those with asthma or lung disease.
+Drink water.
+If breathing is hard, go right away to the nearest health center.",team member (native speaker)
+Very high,Cebuano,"Kanlaon, {date}.
+Peligro sa pagginhawa: Taas kaayo.
+Mobakwit kon mandoan sa LGU.
+Kon may abo o baho sa asupre, pabilin sa sulod ug sirad-i ang bintana.
+Pag-mask, N95 kon aduna.
+Panalipdi ang mga bata, tigulang, ug may hubak o sakit sa baga.
+Inom og tubig.
+Kon lisod moginhawa, adto sa pinakaduol nga health center.","Kanlaon, {date}.
+Danger to breathing: Very high.
+Evacuate when the LGU orders it.
+If there is ash or a sulfur smell, stay inside and close the windows.
+Wear a mask, N95 if there is one.
+Protect children, older people, and those with asthma or lung disease.
+Drink water.
+If breathing is hard, go to the nearest health center.",team member (native speaker)

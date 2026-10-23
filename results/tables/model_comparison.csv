@@ -1,0 +1,15 @@
+task,model,kind,mae_td,rmse_td,accuracy,within_one_accuracy,recall,precision,f1,pr_auc,n_flagged,n_positive,n_eval
+next-day SO2,LightGBM,model,687.9079,875.2480,,,,,,,,,290.0000
+next-day SO2,MLP,model,633.4229,807.8372,,,,,,,,,290.0000
+next-day SO2,persistence,baseline,784.2700,1021.3364,,,,,,,,,290.0000
+next-day SO2,7-day mean,baseline,657.8117,821.2524,,,,,,,,,290.0000
+next-day drift,LightGBM,model,,,0.5585,0.8868,,,,,,,265.0000
+next-day drift,MLP,model,,,0.5094,0.8755,,,,,,,265.0000
+next-day drift,repeat yesterday,baseline,,,0.4302,0.7698,,,,,,,265.0000
+next-day drift,always SW,baseline,,,0.3547,0.5962,,,,,,,265.0000
+next-day drift,wind sector (reference),reference,,,0.4830,0.9321,,,,,,,265.0000
+exposure,LightGBM,model,,,,,0.6413,0.2458,0.3554,0.4517,240.0000,92.0000,1080.0000
+exposure,MLP,model,,,,,0.6522,0.3000,0.4110,0.4301,200.0000,92.0000,1080.0000
+exposure,distance only (N from LightGBM),baseline,,,,,0.5435,0.2083,0.3012,0.2647,240.0000,92.0000,1080.0000
+exposure,distance only (N from MLP),baseline,,,,,0.5217,0.2400,0.3288,0.2647,200.0000,92.0000,1080.0000
+exposure,plume index only,baseline,,,,,1.0000,0.0852,0.1570,0.2574,1080.0000,92.0000,1080.0000

@@ -1,0 +1,5 @@
+group,features,mean_abs_shap,share
+fixed geography,"dist_km, bearing_sin, bearing_cos, elev_m",2.9569,0.5511
+wind and plume,"angle_diff_deg, log_plume_index, wind_speed_plume",1.1263,0.2099
+earthquakes,"eq_total_lag1, eq_total_lag2, eq_total_lag3, eq_total_roll7",0.9261,0.1726
+SO2 and plume height,"log_so2_input, plume_height_m",0.3561,0.0664

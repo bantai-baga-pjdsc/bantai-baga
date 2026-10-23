@@ -1,0 +1,7 @@
+reference,hazard,barangay_days,share_inside_wedge,share_within_45deg,share_upwind
+observed PHIVOLCS drift,all reports,142,0.3451,0.5634,0.1690
+observed PHIVOLCS drift,ashfall,95,0.4105,0.6526,0.0842
+observed PHIVOLCS drift,sulfur odor,80,0.2875,0.4375,0.3000
+modeled wind drift (800-700 hPa),all reports,166,0.4699,0.6687,0.1205
+modeled wind drift (800-700 hPa),ashfall,111,0.6126,0.7928,0.0450
+modeled wind drift (800-700 hPa),sulfur odor,94,0.2872,0.4894,0.2021

@@ -1,0 +1,4 @@
+wind_level,altitude_m,report_days,ashfall_barangay_days,within_45deg,share_within_45deg
+800-700hPa,,10,111,88,0.7928
+600hPa,4414.2088,10,111,78,0.7027
+500hPa,5873.8407,10,111,62,0.5586

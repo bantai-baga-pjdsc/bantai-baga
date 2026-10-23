@@ -1,0 +1,8 @@
+[theme]
+base = "light"
+# navy #123554 and orange #D5581C come from the BantAI Baga logo
+primaryColor = "#D5581C"
+linkColor = "#D5581C"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f4f1"
+textColor = "#1c1917"

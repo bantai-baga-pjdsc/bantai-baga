@@ -1,0 +1,20 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data: too large or not ours to publish (download links go in data/README.md)
+data/raw/
+data/processed/
+*.zip
+*.hgt
+*.xlsx
+
+# Secrets and system files
+.env
+*.key
+.DS_Store
+Thumbs.db
+desktop.ini

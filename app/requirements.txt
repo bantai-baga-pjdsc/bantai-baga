@@ -1,0 +1,13 @@
+# BantAI Baga dashboard (Streamlit Community Cloud, Python 3.12)
+streamlit==1.66.1
+streamlit-folium==0.27.4
+folium==0.20.0
+pandas==3.0.6
+numpy==2.5.4
+pyarrow==26.0.0
+pulp[cbc]==4.1.0
+requests==2.34.2
+# same versions that trained the saved models in app/data/models
+scikit-learn==1.9.1
+lightgbm==4.7.0
+joblib==1.6.0

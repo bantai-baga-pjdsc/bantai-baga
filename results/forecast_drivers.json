@@ -1,0 +1,69 @@
+{
+  "shap_group_share_2026": {
+    "fixed geography": 0.5511,
+    "wind and plume": 0.2099,
+    "earthquakes": 0.1726,
+    "SO2 and plume height": 0.0664
+  },
+  "wedge_effect_2026": {
+    "0-10 km": {
+      "mean_p_inside": 0.9027,
+      "mean_p_outside": 0.5058,
+      "ratio": 1.7847
+    },
+    "10-20 km": {
+      "mean_p_inside": 0.544,
+      "mean_p_outside": 0.1559,
+      "ratio": 3.4889
+    },
+    "20-30 km": {
+      "mean_p_inside": 0.1058,
+      "mean_p_outside": 0.0475,
+      "ratio": 2.2278
+    },
+    "10-30 km": {
+      "mean_p_inside": 0.2349,
+      "mean_p_outside": 0.0824,
+      "ratio": 2.8495
+    },
+    "all": {
+      "mean_p_inside": 0.2818,
+      "mean_p_outside": 0.1118,
+      "ratio": 2.5209
+    }
+  },
+  "reports_modeled_wedge": {
+    "barangay_days": 166,
+    "share_inside_wedge": 0.4699,
+    "share_within_45deg": 0.6687
+  },
+  "plume_height_m": {
+    "other days": {
+      "days_with_height": 872.0,
+      "median_of_daily_median_m": 200.0,
+      "median_of_daily_max_m": 300.0,
+      "highest_daily_max_m": 2000.0
+    },
+    "report days": {
+      "days_with_height": 11.0,
+      "median_of_daily_median_m": 400.0,
+      "median_of_daily_max_m": 2500.0,
+      "highest_daily_max_m": 6000.0
+    }
+  },
+  "upper_wind": {
+    "share_within_45deg": {
+      "800-700hPa": 0.7928,
+      "600hPa": 0.7027,
+      "500hPa": 0.5586
+    },
+    "altitude_m": {
+      "600hPa": 4414,
+      "500hPa": 5874
+    },
+    "ashfall_barangay_days": 111,
+    "report_days": 10,
+    "best_upper_level": "600hPa",
+    "upper_matches_at_least_as_well": false
+  }
+}

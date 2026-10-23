@@ -1,0 +1,5 @@
+area,ari_under5_per100k,ari_over5_per100k,alrti_per100k,pneumonia_per100k,bronchitis_per100k,copd_per100k,all_acute_respiratory_per100k_per_year,Y0_per_person_per_day,Y0_per_1000_per_day,ari_under5_cases,under5_pop_2020,ari_under5_per_child_per_year,use
+Negros Occidental (excl. Bacolod),212.88,787.54,27.33,323.71,81.20,14.68,1447.34,0.0000397,0.0397,5584,265663,0.0210,main baseline
+Bacolod City,67.95,244.51,6.10,85.74,34.23,2.54,441.07,0.0000121,0.0121,401,54350,0.0074,reference
+Negros Oriental,10.47,94.12,209.75,181.93,16.44,0.63,513.34,0.0000141,0.0141,149,144422,0.0010,reference (likely underreported)
+Philippines,519.82,2241.30,252.83,180.87,41.10,14.51,3250.43,0.0000891,0.0891,579974,11069479,0.0524,upper bound for sensitivity

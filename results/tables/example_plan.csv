@@ -1,0 +1,217 @@
+psgc_code,barangay,municipality,province,dist_km,pop_total,pop_under5,pop_60plus,p_exposed,extra_under5_60plus,reported,model_covered,model_base,model_masks,distance_covered,distance_base,distance_masks
+604517013,Sag-Ang,LA CASTELLANA,Negros Occidental,9.23217,13466,1633,1051,0.97154,0.00122726,True,True,San Miguel Barangay Health Station,13082,False,,13466
+604502015,Jorge L. Araneta,CITY OF BAGO,Negros Occidental,19.5892,11213,1075,1239,0.618759,0.000638625,False,True,Barangay Ⅱ Health Station,6938,False,,0
+604502016,Mailum,CITY OF BAGO,Negros Occidental,7.49272,9898,1014,852,0.604374,0.000517719,True,False,,5982,False,,9898
+604502007,Binubuhan,CITY OF BAGO,Negros Occidental,14.6826,5935,585,641,0.939967,0.000517179,True,True,San Miguel Barangay Health Station,5578,False,,0
+604516008,La Granja,CITY OF LA CARLOTA,Negros Occidental,16.0546,7251,670,811,0.717845,0.000472257,True,True,San Miguel Barangay Health Station,5205,False,,0
+604516007,Haguimit,CITY OF LA CARLOTA,Negros Occidental,12.4585,4505,439,484,0.904202,0.00037427,False,True,San Miguel Barangay Health Station,4073,False,,0
+604516013,San Miguel,CITY OF LA CARLOTA,Negros Occidental,13.8752,4703,394,497,0.939967,0.000371,True,True,San Miguel Barangay Health Station,4420,False,,0
+604516006,Cubay,CITY OF LA CARLOTA,Negros Occidental,20.1491,5211,437,652,0.569472,0.000270039,True,True,Barangay Ⅱ Health Station,2967,False,,0
+604502012,Ilijan,CITY OF BAGO,Negros Occidental,6.64347,3518,335,333,0.86452,0.000261414,True,True,San Miguel Barangay Health Station,3041,False,,3518
+604516001,Ara-al,CITY OF LA CARLOTA,Negros Occidental,5.63743,2773,290,276,0.978967,0.000251953,True,True,San Miguel Barangay Health Station,2714,False,,2773
+604524004,Codcod,CITY OF SAN CARLOS,Negros Occidental,10.8545,14234,1646,1102,0.195767,0.000251442,False,False,,2786,False,,14234
+604502014,Ma-ao Barrio,CITY OF BAGO,Negros Occidental,16.8412,17975,1728,1756,0.156959,0.000246229,True,False,,2821,False,,0
+604517012,Robles,LA CASTELLANA,Negros Occidental,15.196,20530,1966,2092,0.128165,0.000233161,False,True,La Castellana Rural Health Unit,2631,False,,0
+604502004,Bacong-Montilla,CITY OF BAGO,Negros Occidental,15.3756,8219,1025,771,0.264506,0.000219884,False,True,Cansilayan Barangay Health Station,2173,False,,0
+604516014,Yubo,CITY OF LA CARLOTA,Negros Occidental,6.7601,2572,264,213,0.975624,0.000214783,False,True,San Miguel Barangay Health Station,2509,False,,2572
+604516011,Barangay II,CITY OF LA CARLOTA,Negros Occidental,22.9908,7575,534,998,0.288428,0.000188301,False,True,Barangay Ⅱ Health Station,2184,False,,0
+604517004,Cabagnaan,LA CASTELLANA,Negros Occidental,4.22576,4365,501,391,0.423495,0.000174413,True,True,Masulog Barangay Health Center,1848,True,Masulog Barangay Health Center,4365
+604516012,Barangay III,CITY OF LA CARLOTA,Negros Occidental,23.2906,6994,434,958,0.288428,0.000168649,False,True,Barangay Ⅱ Health Station,2017,False,,0
+604516003,Balabag,CITY OF LA CARLOTA,Negros Occidental,17.4623,2791,272,250,0.695347,0.000165354,False,True,San Miguel Barangay Health Station,1940,False,,0
+604502021,Sagasa,CITY OF BAGO,Negros Occidental,26.538,4821,409,577,0.348877,0.000150404,False,True,Barangay Ⅱ Health Station,1681,False,,0
+704608007,Masulog,CITY OF CANLAON,Negros Oriental,6.1472,6016,643,487,0.252235,0.000131841,False,True,Masulog Barangay Health Center,1517,True,Masulog Barangay Health Center,6016
+604521021,Zamora,PONTEVEDRA,Negros Occidental,14.5594,1333,160,147,0.889002,0.000124448,True,True,La Castellana Rural Health Unit,1185,False,,0
+604517008,Mansalanao,LA CASTELLANA,Negros Occidental,6.35154,2626,281,221,0.476468,0.000110386,False,False,,1251,False,,2626
+704608009,Mabigo,CITY OF CANLAON,Negros Oriental,10.1681,12406,1209,1158,0.10182,0.000109081,False,True,Masulog Barangay Health Center,1263,True,unnamed doctors,12406
+604516002,Ayungon,CITY OF LA CARLOTA,Negros Occidental,23.2957,3860,339,356,0.348877,0.000108944,False,True,Barangay Ⅱ Health Station,1346,False,,0
+604516010,Barangay I,CITY OF LA CARLOTA,Negros Occidental,22.6474,3878,306,532,0.288428,0.000103664,False,True,Barangay Ⅱ Health Station,1118,False,,0
+604520019,Minoyan,MURCIA,Negros Occidental,11.6662,13146,1540,877,0.0836186,9.56895e-05,False,False,,1099,False,,13146
+604517009,Masulog,LA CASTELLANA,Negros Occidental,7.74015,3813,479,270,0.269356,9.56809e-05,False,True,Masulog Barangay Health Center,1027,True,Masulog Barangay Health Center,3813
+604502002,Alianza,CITY OF BAGO,Negros Occidental,23.5082,3170,294,297,0.348877,9.29727e-05,False,True,Barangay Ⅱ Health Station,1105,False,,0
+604517005,Camandag,LA CASTELLANA,Negros Occidental,11.1368,5612,616,415,0.190607,9.17991e-05,False,True,La Castellana Rural Health Unit,1069,False,,5612
+704608004,Linothangan,CITY OF CANLAON,Negros Oriental,8.42828,4080,446,366,0.244156,9.10524e-05,False,True,Masulog Barangay Health Center,996,True,unnamed doctors,4080
+604519013,Magallon Cadre,MOISES PADILLA (MAGALLON),Negros Occidental,14.1399,4966,663,432,0.175605,9.0072e-05,False,False,,872,False,,0
+604517001,Biaknabato,LA CASTELLANA,Negros Occidental,5.14471,4113,538,321,0.210282,8.52485e-05,False,True,Masulog Barangay Health Center,864,True,Masulog Barangay Health Center,4113
+604516009,Nagasi,CITY OF LA CARLOTA,Negros Occidental,19.2201,3459,329,345,0.250648,7.58806e-05,True,True,Barangay Ⅱ Health Station,866,False,,0
+604519015,Odiong,MOISES PADILLA (MAGALLON),Negros Occidental,15.2569,5803,720,501,0.128165,7.2878e-05,True,True,La Castellana Rural Health Unit,743,False,,0
+604502011,Dulao,CITY OF BAGO,Negros Occidental,24.861,10129,987,869,0.0842934,7.13468e-05,False,True,Cansilayan Barangay Health Station,853,False,,0
+604521001,Antipolo,PONTEVEDRA,Negros Occidental,20.2051,6519,650,645,0.121143,7.07813e-05,True,False,,789,False,,0
+604502017,Malingin,CITY OF BAGO,Negros Occidental,24.5051,7070,772,650,0.108131,7.04117e-05,False,False,,764,False,,0
+604519010,Guinpana-an,MOISES PADILLA (MAGALLON),Negros Occidental,12.6222,3451,400,304,0.201624,6.56218e-05,False,False,,695,False,,0
+604521007,Buenavista Rizal,PONTEVEDRA,Negros Occidental,16.6471,933,108,103,0.67672,6.4824e-05,False,True,San Miguel Barangay Health Station,631,False,,0
+630200051,Mansilingan,CITY OF BACOLOD (Capital),Bacolod City,28.2345,51863,4420,5743,0.0435462,6.42275e-05,False,False,,2258,False,,0
+604521008,Burgos,PONTEVEDRA,Negros Occidental,14.8659,830,90,79,0.822579,6.36316e-05,True,True,San Miguel Barangay Health Station,682,False,,0
+704608008,Panubigan,CITY OF CANLAON,Negros Oriental,11.8547,7681,793,776,0.0889911,6.3068e-05,False,False,,683,True,Canlaon City Rural Health Unit,0
+604502022,Tabunan,CITY OF BAGO,Negros Occidental,28.1465,9365,881,689,0.0825081,5.97028e-05,False,False,,772,False,,0
+604517007,Manghanoy,LA CASTELLANA,Negros Occidental,10.0236,5645,624,528,0.106134,5.59639e-05,False,False,,599,False,,5645
+704608006,Malaiba,CITY OF CANLAON,Negros Oriental,5.94459,4973,453,472,0.12555,5.21637e-05,False,True,Masulog Barangay Health Center,624,True,Canlaon District Hospital,4973
+604502001,Abuanan,CITY OF BAGO,Negros Occidental,20.6209,5951,660,530,0.0929237,5.0848e-05,False,True,Cansilayan Barangay Health Station,552,False,,0
+704608005,Lumapao,CITY OF CANLAON,Negros Oriental,7.32538,3447,373,296,0.159898,4.92563e-05,False,False,,551,True,Canlaon District Hospital,3447
+704608010,Pula,CITY OF CANLAON,Negros Oriental,5.0622,4655,554,372,0.109893,4.75314e-05,False,True,Masulog Barangay Health Center,511,True,Canlaon District Hospital,4655
+604520021,San Miguel,MURCIA,Negros Occidental,15.3366,4016,457,331,0.125451,4.58782e-05,False,False,,503,False,,0
+630200061,Handumanan,CITY OF BACOLOD (Capital),Bacolod City,27.9889,29396,2604,2938,0.0542424,4.44253e-05,False,False,,1594,False,,0
+604521015,Mabini,PONTEVEDRA,Negros Occidental,15.4352,675,62,79,0.630782,3.93056e-05,True,True,San Miguel Barangay Health Station,425,False,,0
+604517002,Cabacungan,LA CASTELLANA,Negros Occidental,9.67858,7909,862,679,0.0531545,3.7723e-05,False,True,Masulog Barangay Health Center,420,True,Masulog Barangay Health Center,7909
+604519011,Inolingan,MOISES PADILLA (MAGALLON),Negros Occidental,18.6192,5125,720,440,0.0661871,3.6139e-05,False,False,,339,False,,0
+630200060,Vista Alegre,CITY OF BACOLOD (Capital),Bacolod City,29.4823,32399,3292,2657,0.0387803,3.55515e-05,False,False,,1256,False,,0
+604521013,Gomez,PONTEVEDRA,Negros Occidental,17.2492,718,78,61,0.549817,3.52998e-05,True,True,La Castellana Rural Health Unit,394,False,,0
+604502003,Atipuluan,CITY OF BAGO,Negros Occidental,22.0405,3944,382,375,0.0842934,2.88133e-05,False,False,,332,False,,0
+604521009,Cambarus,PONTEVEDRA,Negros Occidental,23.7105,2966,303,256,0.110211,2.82034e-05,True,False,,326,False,,0
+704608011,Budlasan,CITY OF CANLAON,Negros Oriental,12.6849,4553,630,292,0.0570158,2.52872e-05,False,True,Masulog Barangay Health Center,259,True,Masulog Barangay Health Center,0
+604519014,Montilla,MOISES PADILLA (MAGALLON),Negros Occidental,14.2078,3725,629,267,0.0563364,2.44374e-05,False,False,,209,False,,0
+704608002,Binalbagan,CITY OF CANLAON,Negros Oriental,13.6782,2569,298,226,0.0889911,2.15508e-05,False,False,,228,True,Canlaon City Rural Health Unit,0
+604524018,Quezon,CITY OF SAN CARLOS,Negros Occidental,15.7258,10596,1133,1031,0.020769,2.04292e-05,False,False,,220,True,Bayog Barangay Health Station,0
+604520013,Cansilayan,MURCIA,Negros Occidental,21.9506,4496,387,415,0.055453,1.99168e-05,False,True,Cansilayan Barangay Health Station,249,False,,0
+604516004,Batuan,CITY OF LA CARLOTA,Negros Occidental,24.3158,6524,599,688,0.0335017,1.91853e-05,False,True,Barangay Ⅱ Health Station,218,False,,0
+630200046,Cabug,CITY OF BACOLOD (Capital),Bacolod City,28.8706,14481,1687,1083,0.0435462,1.90972e-05,False,False,,630,False,,0
+604520023,Santa Rosa,MURCIA,Negros Occidental,17.773,5497,617,443,0.0380049,1.87026e-05,False,False,,208,False,,0
+630200048,Felisa,CITY OF BACOLOD (Capital),Bacolod City,26.3834,11661,1333,705,0.055453,1.82791e-05,False,True,Cansilayan Barangay Health Station,646,False,,0
+604520014,Damsite,MURCIA,Negros Occidental,20.4734,3195,354,250,0.0613283,1.72236e-05,False,True,Cansilayan Barangay Health Station,195,False,,0
+604502023,Taloc,CITY OF BAGO,Negros Occidental,29.9977,16874,1671,1502,0.0111653,1.61206e-05,False,False,,188,False,,0
+604519009,Crossing Magallon,MOISES PADILLA (MAGALLON),Negros Occidental,19.1313,4176,501,411,0.0372812,1.56008e-05,False,True,La Castellana Rural Health Unit,155,False,,0
+630200049,Granada,CITY OF BACOLOD (Capital),Bacolod City,29.2467,31867,2921,3129,0.0163188,1.46847e-05,False,False,,520,False,,0
+604519016,Quintin Remo,MOISES PADILLA (MAGALLON),Negros Occidental,17.6331,7601,127,536,0.0523836,1.38824e-05,False,False,,398,False,,0
+604520018,Lopez Jaena,MURCIA,Negros Occidental,18.7778,4404,448,400,0.0335541,1.29567e-05,False,False,,147,False,,0
+704608003,Bucalan,CITY OF CANLAON,Negros Oriental,14.2895,3259,396,236,0.0406267,1.21093e-05,False,False,,132,True,Canlaon City Rural Health Unit,0
+604520009,Blumentritt,MURCIA,Negros Occidental,24.5028,12304,1288,1105,0.0104091,1.13822e-05,False,True,Cansilayan Barangay Health Station,128,False,,0
+604517011,Puso,LA CASTELLANA,Negros Occidental,10.4104,2481,339,217,0.0369596,9.63408e-06,False,True,Masulog Barangay Health Center,91,True,Masulog Barangay Health Center,2481
+604517006,Lalagsan,LA CASTELLANA,Negros Occidental,18.5931,2879,318,240,0.0372812,9.61594e-06,False,True,La Castellana Rural Health Unit,107,False,,0
+604525007,Sibucao,SAN ENRIQUE,Negros Occidental,26.4903,2777,235,346,0.0335017,8.46481e-06,False,True,Barangay Ⅱ Health Station,93,False,,0
+604519012,Macagahay,MOISES PADILLA (MAGALLON),Negros Occidental,16.5318,2938,501,157,0.0235932,7.66699e-06,False,False,,69,False,,0
+604502008,Busay,CITY OF BAGO,Negros Occidental,29.1141,7320,755,668,0.0111653,7.23999e-06,False,False,,81,False,,0
+604530010,Lacaron,VALLADOLID,Negros Occidental,29.5433,2193,199,251,0.0350968,6.96698e-06,False,True,Barangay Ⅱ Health Station,76,False,,0
+604524019,Rizal,CITY OF SAN CARLOS,Negros Occidental,26.67,16775,1696,1570,0.00463778,6.87379e-06,False,False,,77,False,,0
+604502005,Bagroy,CITY OF BAGO,Negros Occidental,28.9388,1684,181,182,0.0350968,5.73882e-06,False,True,Barangay Ⅱ Health Station,59,False,,0
+604521011,Don Salvador Benedicto,PONTEVEDRA,Negros Occidental,24.4454,6412,663,667,0.00911828,5.46187e-06,False,True,Barangay Ⅱ Health Station,58,False,,0
+604520011,Caliban,MURCIA,Negros Occidental,19.8565,3049,327,281,0.0196563,5.46045e-06,False,True,Cansilayan Barangay Health Station,59,False,,0
+604530002,Ayungon,VALLADOLID,Negros Occidental,27.5867,1313,108,177,0.0438126,5.37779e-06,False,True,Barangay Ⅱ Health Station,57,False,,0
+704624014,Tagbino,VALLEHERMOSO,Negros Oriental,15.9155,4081,441,360,0.0130193,4.78658e-06,False,False,,53,True,Canlaon City Rural Health Unit,0
+604520022,Santa Cruz,MURCIA,Negros Occidental,24.8638,4063,449,357,0.012579,4.6645e-06,False,False,,51,False,,0
+604520024,Salvacion,MURCIA,Negros Occidental,23.144,6515,622,567,0.0085116,4.59915e-06,False,True,Cansilayan Barangay Health Station,55,False,,0
+704608012,Ninoy Aquino,CITY OF CANLAON,Negros Oriental,11.6677,2245,254,206,0.0195813,4.13686e-06,False,False,,43,True,Bayog Barangay Health Station,314
+604521020,San Juan,PONTEVEDRA,Negros Occidental,27.936,4497,411,502,0.00989997,3.99862e-06,False,True,Barangay Ⅱ Health Station,44,False,,0
+630200001,Alangilan,CITY OF BACOLOD (Capital),Bacolod City,27.9482,8079,851,687,0.0167698,3.97401e-06,False,False,,135,False,,0
+604519005,Barangay 4,MOISES PADILLA (MAGALLON),Negros Occidental,16.4167,1272,148,153,0.0292758,3.95919e-06,False,False,,37,False,,0
+604520002,Alegria,MURCIA,Negros Occidental,26.0594,3793,347,345,0.012579,3.92471e-06,False,False,,47,False,,0
+604525001,Bagonawa,SAN ENRIQUE,Negros Occidental,28.5055,1520,147,179,0.0267796,3.86353e-06,False,True,Barangay Ⅱ Health Station,40,False,,0
+604516005,Roberto S. Benedicto,CITY OF LA CARLOTA,Negros Occidental,23.0486,4568,364,498,0.0102068,3.85172e-06,False,True,Barangay Ⅱ Health Station,46,False,,0
+604525004,Guintorilan,SAN ENRIQUE,Negros Occidental,27.1396,1397,119,137,0.0335017,3.81535e-06,False,True,Barangay Ⅱ Health Station,46,False,,0
+604520001,Abo-abo,MURCIA,Negros Occidental,22.75,3394,337,306,0.012579,3.67709e-06,False,False,,42,False,,0
+604532003,Bunga,SALVADOR BENEDICTO,Negros Occidental,22.2316,7068,871,538,0.00548321,3.63232e-06,False,False,,38,False,,0
+604521010,Canroma,PONTEVEDRA,Negros Occidental,27.7687,3294,316,344,0.0120179,3.54653e-06,True,False,,39,False,,0
+604517010,Nato,LA CASTELLANA,Negros Occidental,19.8717,4230,395,416,0.00961565,3.49743e-06,False,True,La Castellana Rural Health Unit,40,False,,0
+604528002,Cabatangan,CITY OF TALISAY,Negros Occidental,27.5227,4275,457,316,0.00942619,3.39332e-06,False,False,,40,False,,0
+604530008,Guintorilan,VALLADOLID,Negros Occidental,27.0993,1103,103,123,0.0335017,3.35687e-06,True,True,Barangay Ⅱ Health Station,36,False,,0
+604519007,Barangay 6,MOISES PADILLA (MAGALLON),Negros Occidental,16.2739,1117,115,143,0.0292758,3.3362e-06,False,False,,32,False,,0
+704608001,Bayog,CITY OF CANLAON,Negros Oriental,11.02,2938,311,310,0.0118966,3.33016e-06,False,False,,34,True,Bayog Barangay Health Station,2938
+604530004,Batuan,VALLADOLID,Negros Occidental,25.8237,1076,114,98,0.0335017,3.24518e-06,True,True,Barangay Ⅱ Health Station,36,False,,0
+604521019,San Isidro,PONTEVEDRA,Negros Occidental,26.7752,2715,267,308,0.0120179,3.07329e-06,False,False,,32,False,,0
+604530007,Doldol,VALLADOLID,Negros Occidental,28.3945,840,93,98,0.0350968,3.00662e-06,False,True,Barangay Ⅱ Health Station,29,False,,0
+604525003,Batuan,SAN ENRIQUE,Negros Occidental,28.9643,1212,115,133,0.0267796,2.95317e-06,False,True,Barangay Ⅱ Health Station,32,False,,0
+604520015,Iglau-an,MURCIA,Negros Occidental,19.2013,2275,246,185,0.0133313,2.65647e-06,False,True,Cansilayan Barangay Health Station,30,False,,0
+604521018,Recreo,PONTEVEDRA,Negros Occidental,29.4456,2840,311,290,0.00956391,2.60676e-06,False,False,,27,False,,0
+604525002,Baliwagan,SAN ENRIQUE,Negros Occidental,26.8775,2959,268,303,0.0102068,2.59678e-06,False,True,Barangay Ⅱ Health Station,30,False,,0
+604532001,Bago,SALVADOR BENEDICTO,Negros Occidental,29.6719,3778,511,215,0.00704753,2.47803e-06,False,False,,26,False,,0
+604532002,Bagong Silang,SALVADOR BENEDICTO,Negros Occidental,29.2404,2771,377,135,0.00901978,2.26146e-06,False,False,,24,False,,0
+604520020,Pandanon,MURCIA,Negros Occidental,17.1068,2981,339,240,0.00828838,2.23036e-06,False,False,,24,False,,0
+604524016,Prosperidad,CITY OF SAN CARLOS,Negros Occidental,21.9684,5769,667,418,0.00425624,2.16855e-06,False,False,,24,False,,0
+604520025,Talotog,MURCIA,Negros Occidental,20.4838,2034,224,165,0.0115704,2.08466e-06,False,True,Cansilayan Barangay Health Station,23,False,,0
+604521014,M. H. Del Pilar,PONTEVEDRA,Negros Occidental,29.2069,2237,205,250,0.00956391,1.92537e-06,True,False,,21,False,,0
+604519002,Barangay 1,MOISES PADILLA (MAGALLON),Negros Occidental,17.4761,1180,128,139,0.0160483,1.91636e-06,False,False,,18,False,,0
+604521004,Barangay III,PONTEVEDRA,Negros Occidental,29.4541,2715,215,370,0.007252,1.81882e-06,False,False,,19,False,,0
+704611033,Trinidad,CITY OF GUIHULNGAN,Negros Oriental,17.1525,6318,846,444,0.00289954,1.78181e-06,False,False,,18,False,,0
+704624010,Pinocawan,VALLEHERMOSO,Negros Oriental,17.6904,4845,530,369,0.00416848,1.74413e-06,False,False,,20,True,Canlaon City Rural Health Unit,0
+604532004,Igmaya-an,SALVADOR BENEDICTO,Negros Occidental,18.6968,4271,469,243,0.00508512,1.72649e-06,False,False,,21,False,,0
+604521017,Pandan,PONTEVEDRA,Negros Occidental,20.5513,3390,331,348,0.00558898,1.70221e-06,True,True,La Castellana Rural Health Unit,18,False,,0
+604520012,Canlandog,MURCIA,Negros Occidental,22.523,3998,462,314,0.00464202,1.68e-06,False,False,,18,False,,0
+604524006,Guadalupe,CITY OF SAN CARLOS,Negros Occidental,24.6398,10746,1009,1225,0.00164838,1.62994e-06,False,False,,17,False,,0
+604532005,Kumaliskis,SALVADOR BENEDICTO,Negros Occidental,19.8914,3574,458,218,0.00486193,1.57747e-06,False,False,,17,False,,0
+604521002,Barangay I,PONTEVEDRA,Negros Occidental,29.1795,1977,194,255,0.00787497,1.55364e-06,False,False,,15,False,,0
+704624015,Ulay,VALLEHERMOSO,Negros Oriental,18.1264,2430,245,238,0.0070125,1.53033e-06,False,False,,17,True,Canlaon City Rural Health Unit,0
+604511024,Tuguis,HINIGARAN,Negros Occidental,27.6499,4111,420,364,0.00420381,1.50459e-06,True,False,,17,False,,0
+604520003,Amayco,MURCIA,Negros Occidental,18.9965,2328,304,174,0.00659608,1.49165e-06,False,False,,15,False,,0
+604520004,Zone I,MURCIA,Negros Occidental,23.7788,1928,178,194,0.0085116,1.41557e-06,False,True,Cansilayan Barangay Health Station,16,False,,0
+604519008,Barangay 7,MOISES PADILLA (MAGALLON),Negros Occidental,17.0277,906,97,97,0.0160483,1.40301e-06,False,False,,14,False,,0
+604502018,Napoles,CITY OF BAGO,Negros Occidental,28.7986,7440,735,708,0.0020573,1.34231e-06,False,False,,15,False,,0
+604511025,Baga-as,HINIGARAN,Negros Occidental,24.3433,3884,371,329,0.00420381,1.34061e-06,True,False,,16,False,,0
+604521003,Barangay II,PONTEVEDRA,Negros Occidental,29.014,1963,147,269,0.007252,1.28633e-06,False,False,,14,False,,0
+604532007,Pinowayan,SALVADOR BENEDICTO,Negros Occidental,26.017,2684,344,138,0.00545165,1.2769e-06,False,False,,14,False,,0
+604521012,General Malvar,PONTEVEDRA,Negros Occidental,24.7583,2147,254,192,0.00502497,1.03565e-06,False,False,,10,False,,0
+604519004,Barangay 3,MOISES PADILLA (MAGALLON),Negros Occidental,16.96,479,78,60,0.0160483,1.0219e-06,False,False,,7,False,,0
+604519006,Barangay 5,MOISES PADILLA (MAGALLON),Negros Occidental,16.9571,598,55,86,0.0160483,9.78595e-07,False,False,,9,False,,0
+604502010,Caridad,CITY OF BAGO,Negros Occidental,26.8598,3837,340,436,0.00268214,9.16597e-07,False,True,Barangay Ⅱ Health Station,10,False,,0
+704624005,Cabulihan,VALLEHERMOSO,Negros Oriental,18.7016,1427,146,139,0.00709614,9.15443e-07,False,False,,10,False,,0
+604520010,Buenavista,MURCIA,Negros Occidental,23.9558,2766,275,210,0.00401165,8.98293e-07,False,False,,11,False,,0
+604532006,Pandanon,SALVADOR BENEDICTO,Negros Occidental,19.9305,2776,308,248,0.00342917,8.76155e-07,False,False,,9,False,,0
+604520008,Zone V,MURCIA,Negros Occidental,23.4449,1083,111,100,0.0085116,8.17037e-07,False,True,Cansilayan Barangay Health Station,9,False,,0
+604511010,Camalobalo,HINIGARAN,Negros Occidental,24.9417,2521,272,240,0.00319501,7.45585e-07,False,False,,8,False,,0
+604521006,Buenavista Gibong,PONTEVEDRA,Negros Occidental,28.5362,928,79,91,0.00956391,7.23172e-07,False,False,,8,False,,0
+604511007,Bato,HINIGARAN,Negros Occidental,29.6406,3244,316,328,0.00247953,7.17086e-07,True,False,,8,False,,0
+604511009,Calapi,HINIGARAN,Negros Occidental,22.7498,3715,374,340,0.00211782,6.87332e-07,True,True,La Castellana Rural Health Unit,7,False,,0
+704624004,Guba,VALLEHERMOSO,Negros Oriental,17.9713,1974,214,183,0.00376986,6.84065e-07,False,False,,7,False,,0
+604524008,Nataban,CITY OF SAN CARLOS,Negros Occidental,20.7947,3816,370,363,0.00206666,6.83811e-07,False,False,,7,False,,0
+604511013,Candumarao,HINIGARAN,Negros Occidental,26.5787,2431,212,269,0.00319501,6.77452e-07,False,False,,7,False,,0
+604525010,Tibsoc,SAN ENRIQUE,Negros Occidental,29.3111,900,81,92,0.00811959,6.25605e-07,False,True,Barangay Ⅱ Health Station,7,False,,0
+704611016,Linantuyan,CITY OF GUIHULNGAN,Negros Oriental,29.0226,2704,357,226,0.00224611,6.14385e-07,False,False,,6,False,,0
+604511002,Aranda,HINIGARAN,Negros Occidental,27.1728,3024,281,379,0.00211782,6.12695e-07,False,False,,6,False,,0
+604514029,Sikatuna,ISABELA,Negros Occidental,24.2861,2616,319,218,0.00240112,6.01064e-07,False,False,,6,False,,0
+604514028,Sebucawan,ISABELA,Negros Occidental,20.6293,2272,292,170,0.0026554,5.79584e-07,False,False,,6,False,,0
+704624009,Maglahos,VALLEHERMOSO,Negros Oriental,15.8625,1525,177,162,0.00341569,5.2601e-07,False,False,,5,True,Canlaon City Rural Health Unit,0
+604514030,Tinongan,ISABELA,Negros Occidental,25.1855,5990,609,669,0.00078494,4.48137e-07,False,False,,4,False,,0
+604520006,Zone III,MURCIA,Negros Occidental,23.5983,575,45,75,0.0085116,4.3916e-07,False,True,Cansilayan Barangay Health Station,4,False,,0
+604514026,Rumirang,ISABELA,Negros Occidental,27.526,2049,225,226,0.00211782,4.30221e-07,False,False,,4,False,,0
+604514024,Barangay 9,ISABELA,Negros Occidental,27.6652,2154,212,204,0.00211782,3.98395e-07,False,False,,4,False,,0
+604517016,Talaptap,LA CASTELLANA,Negros Occidental,20.2725,1823,177,185,0.0023563,3.82806e-07,False,True,La Castellana Rural Health Unit,4,False,,0
+604520007,Zone IV,MURCIA,Negros Occidental,23.5494,535,32,63,0.0085116,3.42568e-07,False,True,Cansilayan Barangay Health Station,4,False,,0
+604514011,Limalima,ISABELA,Negros Occidental,25.4479,1364,177,99,0.00240112,3.14104e-07,False,False,,3,False,,0
+604520005,Zone II,MURCIA,Negros Occidental,23.6503,493,25,64,0.0085116,3.13927e-07,False,True,Cansilayan Barangay Health Station,4,False,,0
+604514004,Bungahin,ISABELA,Negros Occidental,21.8311,1631,154,167,0.00211782,3.0406e-07,False,False,,3,False,,0
+604514010,Libas,ISABELA,Negros Occidental,22.0555,1384,119,116,0.0026554,2.81849e-07,False,False,,3,False,,0
+604514014,Maytubig,ISABELA,Negros Occidental,25.186,1978,196,197,0.00155938,2.76021e-07,False,False,,3,False,,0
+704611004,Basak,CITY OF GUIHULNGAN,Negros Oriental,26.7082,4231,457,484,0.000640809,2.70287e-07,False,False,,2,False,,0
+604514012,Makilignit,ISABELA,Negros Occidental,27.3499,857,129,66,0.00289443,2.69403e-07,False,False,,2,False,,0
+604514027,San Agustin,ISABELA,Negros Occidental,25.1625,3602,408,318,0.00078494,2.62625e-07,False,False,,2,False,,0
+604514002,Banogbanog,ISABELA,Negros Occidental,24.6488,1427,137,98,0.00240112,2.62003e-07,False,False,,3,False,,0
+704611007,Bulado,CITY OF GUIHULNGAN,Negros Oriental,28.4085,3650,453,383,0.000608922,2.3291e-07,False,False,,2,False,,0
+604514013,Mansablay,ISABELA,Negros Occidental,28.4914,4243,508,293,0.000608832,2.30569e-07,False,False,,2,False,,0
+604514023,Barangay 8,ISABELA,Negros Occidental,28.1519,1716,139,175,0.00164316,2.27605e-07,False,False,,2,False,,0
+604514016,Barangay 1,ISABELA,Negros Occidental,28.6408,1547,141,171,0.00164316,2.26939e-07,False,False,,2,False,,0
+704611010,Hibaiyo,CITY OF GUIHULNGAN,Negros Oriental,24.3101,5602,690,622,0.000368942,2.20191e-07,False,False,,2,False,,0
+604514019,Barangay 4,ISABELA,Negros Occidental,27.8767,1013,100,132,0.00211782,2.158e-07,False,False,,2,False,,0
+604514005,Cabcab,ISABELA,Negros Occidental,23.8751,1736,200,131,0.00137499,2.12925e-07,False,False,,2,False,,0
+704624011,Poblacion,VALLEHERMOSO,Negros Oriental,21.9921,4928,413,559,0.000486414,2.07175e-07,False,False,,2,False,,0
+604519003,Barangay 2,MOISES PADILLA (MAGALLON),Negros Occidental,17.0302,125,14,14,0.0160483,2.02497e-07,False,False,,2,False,,0
+704611012,Hinakpan,CITY OF GUIHULNGAN,Negros Oriental,25.6022,2262,289,169,0.00091582,1.98089e-07,False,False,,2,False,,0
+604514001,Amin,ISABELA,Negros Occidental,22.0829,1332,132,127,0.00168423,1.97259e-07,False,False,,2,False,,0
+704611026,Plagatasanon,CITY OF GUIHULNGAN,Negros Oriental,27.0501,1074,127,86,0.00186689,1.8551e-07,False,False,,2,False,,0
+704611011,Hilaitan,CITY OF GUIHULNGAN,Negros Oriental,25.8266,5329,526,563,0.000368942,1.79916e-07,False,False,,1,False,,0
+604524002,Buluangan,CITY OF SAN CARLOS,Negros Occidental,20.7982,10962,1046,1344,0.000162993,1.71521e-07,False,False,,1,False,,0
+604514007,Camp Clark,ISABELA,Negros Occidental,20.7732,1167,116,105,0.00168423,1.69255e-07,False,False,,1,False,,0
+604514022,Barangay 7,ISABELA,Negros Occidental,27.5035,845,65,115,0.00211782,1.63025e-07,False,False,,1,False,,0
+604514018,Barangay 3,ISABELA,Negros Occidental,28.0944,886,83,90,0.00206903,1.60096e-07,False,False,,1,False,,0
+604514017,Barangay 2,ISABELA,Negros Occidental,28.4365,1082,69,156,0.00164316,1.54781e-07,False,False,,1,False,,0
+704611017,Luz,CITY OF GUIHULNGAN,Negros Oriental,24.418,1713,225,131,0.000877858,1.47643e-07,False,False,,1,False,,0
+604514021,Barangay 6,ISABELA,Negros Occidental,27.5531,710,58,93,0.00211782,1.37975e-07,False,False,,1,False,,0
+704611020,Nagsaha,CITY OF GUIHULNGAN,Negros Oriental,29.315,1563,181,143,0.00092492,1.37941e-07,False,False,,1,False,,0
+604514025,Riverside,ISABELA,Negros Occidental,28.9809,1984,267,145,0.000666551,1.30467e-07,False,False,,1,False,,0
+704624012,Puan,VALLEHERMOSO,Negros Oriental,22.9041,2186,250,216,0.000595926,1.26809e-07,False,False,,1,False,,0
+704624002,Bairan,VALLEHERMOSO,Negros Oriental,18.595,610,61,70,0.00213438,1.24405e-07,False,False,,1,False,,0
+704611009,Calupa-an,CITY OF GUIHULNGAN,Negros Oriental,19.3029,1876,196,187,0.000641723,1.11228e-07,False,False,,1,False,,0
+704624013,Tabon,VALLEHERMOSO,Negros Oriental,22.4994,3320,356,303,0.000353314,1.06464e-07,False,False,,1,False,,0
+604514015,Panaquiao,ISABELA,Negros Occidental,21.4311,1294,158,133,0.00078494,1.04549e-07,False,False,,1,False,,0
+604514003,Bulad,ISABELA,Negros Occidental,23.7803,3010,292,283,0.000376467,9.78225e-08,False,False,,1,False,,0
+704611034,Villegas,CITY OF GUIHULNGAN,Negros Oriental,29.0164,2393,299,242,0.000365808,9.08995e-08,False,False,,0,False,,0
+604514009,Guintubhan,ISABELA,Negros Occidental,29.6531,3227,317,312,0.000298874,8.4834e-08,False,False,,0,False,,0
+704624001,Bagawines,VALLEHERMOSO,Negros Oriental,20.5497,5803,529,538,0.000171384,8.22734e-08,False,False,,0,False,,0
+704611029,Sandayao,CITY OF GUIHULNGAN,Negros Oriental,21.3251,3537,508,254,0.00020035,7.29988e-08,False,False,,0,False,,0
+704611027,Planas,CITY OF GUIHULNGAN,Negros Oriental,28.3425,1887,248,165,0.000365808,7.05866e-08,False,False,,0,False,,0
+704611023,Maniak,CITY OF GUIHULNGAN,Negros Oriental,21.3969,2181,263,224,0.000301129,6.70523e-08,False,False,,0,False,,0
+704624008,Molobolo,VALLEHERMOSO,Negros Oriental,24.3433,1982,215,198,0.000353314,6.62484e-08,False,False,,0,False,,0
+704624006,Macapso,VALLEHERMOSO,Negros Oriental,21.1774,1502,133,198,0.000449598,6.46428e-08,False,False,,0,False,,0
+704611013,Humayhumay,CITY OF GUIHULNGAN,Negros Oriental,27.5742,1563,177,144,0.000426398,6.28394e-08,False,False,,0,False,,0
+604514020,Barangay 5,ISABELA,Negros Occidental,26.1756,1834,195,164,0.000376467,6.18649e-08,False,False,,0,False,,0
+704611005,Binobohan,CITY OF GUIHULNGAN,Negros Oriental,23.2525,1600,213,164,0.000349083,6.07157e-08,False,False,,0,False,,0
+704624007,Malangsa,VALLEHERMOSO,Negros Oriental,21.2723,2124,248,209,0.000288373,6.03135e-08,False,False,,0,False,,0
+704611014,Imelda,CITY OF GUIHULNGAN,Negros Oriental,25.653,1392,193,160,0.00036477,5.90168e-08,False,False,,0,False,,0
+704624003,Don Espiridion Villegas,VALLEHERMOSO,Negros Oriental,22.0585,2042,231,199,0.000288373,5.66382e-08,False,False,,0,False,,0
+704611030,Tacpao,CITY OF GUIHULNGAN,Negros Oriental,25.2364,1474,197,175,0.000256915,4.35327e-08,False,False,,0,False,,0

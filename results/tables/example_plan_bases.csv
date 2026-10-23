@@ -1,0 +1,11 @@
+plan,base_id,name,amenity,lat,lon,dist_crater_km,barangays_in_reach,barangays_assigned,weight_assigned,vulnerable_assigned,kits
+model,way/388895933,Masulog Barangay Health Center,health_post,10.3595,123.17,7.18377,11,11,0.000859656,11679,39
+model,way/1350325670,San Miguel Barangay Health Station,health_post,10.4157,123.021,12.1231,13,12,0.00402323,9959,181
+model,way/685791670,La Castellana Rural Health Unit,doctors,10.3232,123.018,15.8897,13,11,0.000589073,10792,26
+model,way/1308275136,Cansilayan Barangay Health Station,health_post,10.5595,123.018,20.5891,16,16,0.00042701,14183,19
+model,node/12819059659,Barangay Ⅱ Health Station,health_post,10.432,122.917,23.6072,27,26,0.00188091,19161,84
+distance,way/388895933,Masulog Barangay Health Center,health_post,10.3595,123.17,7.18377,11,7,0.000559827,6649,112
+distance,way/310683911,Canlaon District Hospital,hospital,10.4011,123.213,8.9862,13,3,0.000148951,2520,42
+distance,node/11743401369,unnamed doctors,doctors,10.388,123.22,10.0053,14,2,0.000200133,3179,53
+distance,way/1290960916,Bayog Barangay Health Station,health_post,10.4124,123.227,10.3381,13,3,2.78962e-05,3245,54
+distance,way/1353323366,Canlaon City Rural Health Unit,doctors,10.3791,123.23,11.3524,16,7,0.000105315,5247,88
