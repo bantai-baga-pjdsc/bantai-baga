@@ -8,7 +8,7 @@
 
 BantAI Baga forecasts which barangays near Kanlaon Volcano are likely to breathe volcanic gas and ash in the next 1 to 3 days, and plans where to send health teams and supplies.
 
-[![Python 3.12](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/downloads/) [![Streamlit app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](LIVE_APP_URL) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![checks](../../actions/workflows/checks.yml/badge.svg)](../../actions/workflows/checks.yml)
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/downloads/) [![Streamlit app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bantai-baga.streamlit.app) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![checks](../../actions/workflows/checks.yml/badge.svg)](../../actions/workflows/checks.yml)
 
 [What it does](#what-it-does) · [How it works](#how-it-works) · [Dashboard](#using-the-dashboard) · [Results](#results-on-unseen-2026-data) · [Quick start](#quick-start-app-only) · [Reproduction](#full-reproduction) · [Data sources](#data-sources) · [Limitations](#limitations)
 
